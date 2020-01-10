@@ -1201,7 +1201,7 @@ p.drop-caps.drop-caps-style-2:first-letter {
 }
 
 .nav-secondary.nav-secondary-style-2.nav-secondary-style-2-square .nav > li > a {
-	border-radius: 0px;
+	border-radius: 50%;
 }
 
 @media (max-width: 767px) {
